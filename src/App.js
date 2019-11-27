@@ -21,9 +21,9 @@ const App = () => {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>{message}</p>
-        <p>Change me!</p>
+        <img src={"https://www.xavio.in/img/logoBS.png"} className="App-logo" alt="logo" />
+        <p>XAVIO</p>
+        <p>Freelance for those who don''t know freelance</p>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
