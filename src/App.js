@@ -23,7 +23,7 @@ const App = () => {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>XAVIO</p>
-        <p>Freelance for those who don''t know freelance</p>
+        <p>message</p>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
